@@ -1,0 +1,5 @@
+The High Five License
+
+If you deploy this software to a webserver exposed to the internet you must give me one high five if you ever meet me IRL.
+Make whatever changes you want, no need for attribution if you don't want to.
+Any copies of this software do not need to include this license.
