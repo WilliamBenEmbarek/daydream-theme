@@ -1,8 +1,14 @@
-# daydream
+# Daydream
 
-Welcome to my Jekyll theme, its pretty basic, there isn't really much more too it.
+Welcome to my Jekyll theme, its pretty basic, there isn't really much more too it.\
+
+[!Picture of the theme](theme.png)
+
+A live demo can also be seen [here](https://embar.io).
 
 This theme is also in no way shape or form mobile friendly, you have been warned.
+
+This theme should be accessability friendly as its just HTML and CSS, but no gaurantees there, I am not a frontend developer.
 
 Photo by [Wolfgang Hasselmann](https://unsplash.com/@wolfgang_hasselmann?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@wolfgang_hasselmann?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   
