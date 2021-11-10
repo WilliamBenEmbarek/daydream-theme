@@ -4,7 +4,6 @@
     width: 15%;
     color: var(--sidebar-color);
     background: center / cover;
-    outline: 2px red solid;
   }
 
   .sidebar-shield {
@@ -79,7 +78,6 @@
     overflow: hidden;
     border-radius: 40%;
     margin: 1em;
-    outline: 2px red solid;
   }
 
   img {
@@ -177,3 +175,22 @@
     height: 100%;
     width: auto;
   }}
+
+  @media (min-width: $md-screen) {
+    .header {
+      text-align: left;
+      position: absolute;
+      top: 10%;
+      text-underline-offset: 0.35rem;
+    }
+  
+    .nav-item a {
+      padding-left: 0;
+    }
+  
+    .social-item {
+      a {
+        padding-left: 0;
+      }
+    }
+  }
