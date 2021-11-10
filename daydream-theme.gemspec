@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "daydream-theme"
-  spec.version       = "1.0.0"
+  spec.version       = "1.0.1"
   spec.authors       = ["william Ben Embarek"]
   spec.email         = ["william.benembarek@gmail.com"]
 
