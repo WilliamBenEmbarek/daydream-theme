@@ -6,7 +6,7 @@ Welcome to my Jekyll theme, its pretty basic, there isn't really much more too i
 
 A live demo can also be seen [here](https://embar.io).
 
-This theme is also in no way shape or form mobile friendly, you have been warned.
+Theme is also somewhat mobile friendly!
 
 This theme should be accessability friendly as its just HTML and CSS, but no gaurantees there, I am not a frontend developer.
 
@@ -15,6 +15,7 @@ Photo by [Wolfgang Hasselmann](https://unsplash.com/@wolfgang_hasselmann?utm_sou
 
 ## Installation
 
+### Standalone Jekyll
 Add this line to your Jekyll site's `Gemfile`:
 
 ```ruby
@@ -38,6 +39,19 @@ And then execute:
 Or install it yourself as:
 
     $ gem install daydream
+
+
+### Github Pages
+
+To install on github pages instead add this line to your `GemFile` under the jekyll plugins group:
+```ruby
+  gem "jekyll-remote-theme"
+```
+
+then in your Jekyll site's `_config.yml`:
+```yaml
+remote_theme: williambenembarek/daydream-theme
+```
 
 ## Usage
 
