@@ -2,7 +2,7 @@
 
 Welcome to my Jekyll theme, its pretty basic, there isn't really much more too it.\
 
-![Picture of the theme](theme.png)
+![Picture of the theme](theme.PNG)
 
 A live demo can also be seen [here](https://embar.io).
 
