@@ -137,7 +137,7 @@ Paste in the following and edit it
 
 ## TODO
  - Add dark mode toggle, if you end up implementing this please send me a PR! Would be apprciated :)
- - Make mobile friendly
+ - Make mobile friendly (Somewhat done, can 100% be improved)
 
 ## Contributing
 
